@@ -50,7 +50,7 @@ def load_model():
 model = load_model()
 
 # --- INPUT FIELDS ---
-st.header("🧫 Données biologiques du patient")
+st.header("Données biologiques du patient")
 
 col1, col2, col3 = st.columns(3)
 
